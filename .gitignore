@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+.photo-coach/
+*.egg-info/
+dist/
+build/
+.DS_Store
